@@ -1,0 +1,8 @@
+display-name-zh: 定位分镜链
+version: 0.1.0
+tag-en: "Visual Creation / Storyboard"
+tag-cn: "视觉创作 / 图像生成"
+summary-en: "Chains stage blocking maps into black-and-white storyboard production."
+summary-cn: "先定位再生成分镜链路"
+desc-en: "A control skill that combines stage-position-map and zero-to-story into one ordered workflow. It first creates a Blocking Sheet and overhead stage position map, then carries coordinates, facing targets, screen positions, camera-facing descriptions, eyelines, and relative distances into storyboard documents, character sheets, black-and-white 2x4 storyboards, Panel prompts, and optional video generation."
+desc-cn: "把舞台定位图与二维黑白灵感宫格分镜整合为一个强顺序链路：先生成 Blocking Sheet 与鸟瞰舞台定位图，再把坐标、朝向目标、画面位置、镜头朝向、视线和相对距离沿用到故事板、角色设定图、黑白宫格分镜与 Panel 视频提示词中，避免单独调用造成空间漂移。"
